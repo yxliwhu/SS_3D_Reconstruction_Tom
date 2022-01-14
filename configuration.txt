@@ -1,0 +1,14 @@
+1 FocalLengthXD 549.67
+2 FocalLengthYD 549.89
+3 PrincipleXD 305.21
+4 PrincipleYD 251.69
+5 FocalLengthXC 559.67
+6 FocalLengthYC 559.81
+7 PrincipleXC 312.77
+8 PrincipleYC 239.94
+9 AviliableDis 7000
+10 DownSampleSize 5
+11 saveDis 5000
+12 IFUSECumHistogram 1
+13 KeyFrameThreshold 150
+14 scale 1
